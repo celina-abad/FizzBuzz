@@ -51,4 +51,7 @@ class doFizzBuzz {
             } i++;
         }
     }
+
+    public static void getI(int i) {
+    }
 }
